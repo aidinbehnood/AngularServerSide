@@ -43,7 +43,7 @@ namespace WebApplication2
             }
 
             ///
-
+            ////
             app.UseHttpsRedirection();
 
             app.UseRouting();
