@@ -1,0 +1,14 @@
+.vs
+Common/bin
+Common/obj
+Data/bin
+Data/obj
+repository/bin
+repository/obj
+WebApplication2/bin
+WebApplication2/obj
+service/bin
+service/obj
+
+
+
